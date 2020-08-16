@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algortimo.1.1", "Algortimo.1.1\Algortimo.1.1.csproj", "{DF4DBDCC-6FE7-4BC6-BC90-23027D0F1B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF4DBDCC-6FE7-4BC6-BC90-23027D0F1B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4DBDCC-6FE7-4BC6-BC90-23027D0F1B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4DBDCC-6FE7-4BC6-BC90-23027D0F1B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4DBDCC-6FE7-4BC6-BC90-23027D0F1B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75506400-5D18-40F0-8181-3FB59F140A08}
+	EndGlobalSection
+EndGlobal
